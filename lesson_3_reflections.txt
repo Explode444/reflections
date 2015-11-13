@@ -3,3 +3,5 @@ When would you want to use a remote repository rather than keeping all your work
 Make more updates
 
 Trying on my own computer now
+
+CHecking password
