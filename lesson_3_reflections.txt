@@ -5,3 +5,5 @@ Make more updates
 Trying on my own computer now
 
 CHecking password
+
+seeing if i can remove -w file
